@@ -27,4 +27,5 @@ THEN the password is either displayed in an alert or written to the page
 Links
 https://akirillychev.github.io/Password-Generater-Project/.
 https://github.com/akirillychev/Password-Generater-Project
-Screenshot is in folder.
+Screenshot 
+Assets\screenshot.PNG

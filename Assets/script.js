@@ -10,7 +10,8 @@ function writePassword() {
   passwordText.value = password;
 }
 
-generateBtn.addEventListener("click", writePassword);
+//generateBtn.addEventListener("click", writePassword);
+document.getElementById("generate").addEventListener("click", writePassword);
 
 
 // Assignment Code
